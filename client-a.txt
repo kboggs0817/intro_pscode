@@ -4,6 +4,7 @@
 Begin
     Input Random Number
    Do
+    For i= 1-3
     Display "Type in number between 1 and 10" Input number
 While (Number>1) OR (Number<10)
     Display "Type in guess" Input guess
