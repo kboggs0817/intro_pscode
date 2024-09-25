@@ -1,4 +1,12 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Begin
+Do "Locate Product Needed"
+   Display "Grid Y-0/9" X-0/7"
+While (Product location  X=5, Y=6)
+  If (Customer starts at Front Door)
+  Then (Customer will walk East to Isle 5)
+  Then (Customer will walk North to Section 6)
+  While (Product will be on the Right)
+End
