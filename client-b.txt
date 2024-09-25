@@ -1,6 +1,7 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Find The Spot
 Begin
 Do "Locate Product Needed"
    Display "Grid Y-0/9" X-0/7"
