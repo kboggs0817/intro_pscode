@@ -1,4 +1,22 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
+# Guess The Number Game
+Begin
+    Input Random Number
+   Do
+    Display "Type in number between 1 and 10" Input number
+While (Number>1) OR (Number<10)
+    Display "Type in guess" Input guess
+    If (Guess = Number) then
+    Display "Congrats, You Are Correct"
+    Endif
+      If (Guess > Number) then
+    Display "Too Big"
+    Endif
+       If (Guess < Number) then
+    Display "Too Small"
+    Endif
+While (Not (Guess =Number))
+While True
+End------------------------------------------------- #
 
