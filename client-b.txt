@@ -10,4 +10,5 @@ While (Product location  X=5, Y=6)
   Then (Customer will walk East to Isle 5)
   Then (Customer will walk North to Section 6)
   While (Product will be on the Right)
+
 End
