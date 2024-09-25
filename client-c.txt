@@ -1,4 +1,9 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Product Package Counter
+Begin
+If (Count =0)
+   While (Count =<50)
+   Then (Count =count+2)
+End
